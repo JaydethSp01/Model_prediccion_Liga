@@ -13,7 +13,7 @@ from src.repositories.jugador_repository import JugadorRepository
 from src.repositories.equipo_repository import EquipoRepository
 import math
 
-SERPAPI_API_KEY = "391feb88b916e9a5ae927a1145c538bd92ac85aa95afa0ec81907a6969f9692f"
+SERPAPI_API_KEY = "af93ffc6b296f828732106a04ffe3ea2180780ffe203638f081583ec16406f8c"
 
 class PredictionService:
     def __init__(self):
